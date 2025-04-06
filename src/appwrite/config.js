@@ -25,7 +25,7 @@ export class Service{
                     content,
                     featuredimage,
                     status,
-                    userId,
+                    userId  ,
                 }
                
             )
